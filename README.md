@@ -1,7 +1,7 @@
 
 # CSGO-External
 
-COMING SOON
+COMING SOON!
 
 
 This was a cheat made for a friend which didn't want to pay for a CSGO cheat. 
