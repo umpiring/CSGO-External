@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Counter-Strike">
+      <UniqueIdentifier>{a4090da3-18fc-47b0-b705-074c95a94cd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat">
+      <UniqueIdentifier>{340b4c66-9cf8-4d66-97b2-7f9e85ac3efb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Global Definitions">
+      <UniqueIdentifier>{f9e678fa-dbb9-42ff-9dd1-0693ba688a52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Memory">
+      <UniqueIdentifier>{7c1a11cd-d82c-4eb9-8171-b5a46f4bc888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Overlay">
+      <UniqueIdentifier>{315e0674-2257-46e7-b654-edaf657c9199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Framework">
+      <UniqueIdentifier>{7ccd6b99-fba9-4585-a25f-83cfdabb3915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Framework\ImGui">
+      <UniqueIdentifier>{fd89fb46-eda3-487a-a10e-e795383add9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Cheats">
+      <UniqueIdentifier>{1535e2c2-216e-464c-8c17-4b9ae7e079d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\View">
+      <UniqueIdentifier>{b529ae45-023e-4a02-b45c-1a203b5060a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Config">
+      <UniqueIdentifier>{9dbaaff5-9223-4de5-9fd1-a1824a641919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Cheats\Aimbot">
+      <UniqueIdentifier>{95334456-d46e-4703-971e-54914b0da77e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Counter-Strike\Cheat\Cheats\Visuals">
+      <UniqueIdentifier>{f457d8ac-62f5-4b59-97fe-a449c8159af8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="externCSGO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_dx9.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_win32.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_tables.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_widgets.cpp">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Overlay.cpp">
+      <Filter>Counter-Strike\Cheat\Overlay</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="memory.h">
+      <Filter>Counter-Strike\Cheat\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="variables.h">
+      <Filter>Counter-Strike\Cheat\Global Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Counter-Strike\Cheat\Global Definitions</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_dx9.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_impl_win32.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_rectpack.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_textedit.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_truetype.h">
+      <Filter>Counter-Strike\Cheat\Framework\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Overlay.h">
+      <Filter>Counter-Strike\Cheat\Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="view.h">
+      <Filter>Counter-Strike\Cheat\View</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Counter-Strike\Cheat\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="B:\Coding\C++\externCSGO\externCSGO\chams.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="B:\Coding\C++\externCSGO\externCSGO\glow.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="B:\Coding\C++\externCSGO\externCSGO\player.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="spotted.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="box.h">
+      <Filter>Counter-Strike\Cheat\Cheats\Visuals</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

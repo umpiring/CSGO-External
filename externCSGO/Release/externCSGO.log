@@ -1,0 +1,15 @@
+﻿  externCSGO.cpp
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\glow.h(9,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(128,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(173,54): warning C4129: 'W': unrecognized character escape sequence
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(173,54): warning C4129: 'F': unrecognized character escape sequence
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(174,70): warning C4129: 'W': unrecognized character escape sequence
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(174,70): warning C4129: 'F': unrecognized character escape sequence
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\box.h(188,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+B:\Coding\C++\Counter-Strike\externCSGO\externCSGO\externCSGO.cpp(89,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  18 of 1752 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  externCSGO.vcxproj -> B:\Coding\C++\Counter-Strike\externCSGO\Release\externCSGO.exe
