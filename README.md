@@ -1,14 +1,15 @@
 
 # CSGO-External
 
-COMING SOON!
+Note: The code in this cheat was not the cleanest at all, everything in here can be done far more efficiently and cleanly.
+That being said when I coded this I didn't plan on releasing it and rather kept it as a private source but it CSGO so I decided to share it.
 
+Also credits to Cazz for some fo the help & Uhm in my discord for help as well :)
 
-This was a cheat made for a friend which didn't want to pay for a CSGO cheat. 
-Obviously the code is a messy bunch as alot of the code could be much cleaner. 
-He just wished for functionality and didn't care about how it was coded so I just threw things together one at a time
-which could've done much more efficiently. If that's what you like I suggest cleaning it up but other than that its not much.
- 
+If you need help with anything join my discord and I'll help you out, please refrain from asking questions that are common knowledge and/or things 
+that you are able to look up online.
+
+Also the radar reveal may not work, I think I did it wrong lol.
 
 ## Acknowledgements
 
@@ -39,7 +40,7 @@ which could've done much more efficiently. If that's what you like I suggest cle
 
 ## Installation
 
-```bash
+```
   1. Download the project 
   2. Release x86 
   3. Ensure you have Microsoft DirectX SDK installed
@@ -48,7 +49,7 @@ which could've done much more efficiently. If that's what you like I suggest cle
 ```
     
 ## Support
-
+Add Possible#4113 (faster reply in server)
 For support, please join our discord server https://discord.gg/fp8pXaUgSn
 
 
