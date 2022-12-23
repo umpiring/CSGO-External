@@ -22,10 +22,6 @@ namespace Aimbot {
 		{
 			if (Config::toggleAimbot)
 			{
-				const auto memory = Memory{ "csgo.exe" };
-
-				const auto client = memory.GetModuleAddress("client.dll");
-				const auto engine = memory.GetModuleAddress("engine.dll");
 
 
 				int vkKey[] = { 0x02, 0x01, 0x06 , 0x05, 0x10, 0x12 };
