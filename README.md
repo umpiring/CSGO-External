@@ -48,8 +48,4 @@ Also the radar reveal may not work, I think I did it wrong lol.
   5. Enjoy
 ```
     
-## Support
-Add Possible#4113 (faster reply in server)
-For support, please join our discord server https://discord.gg/fp8pXaUgSn
-
 
